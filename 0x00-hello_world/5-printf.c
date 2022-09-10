@@ -6,9 +6,9 @@
  *
  *   *
  *
- *    * Return: 0 if successful
+ *   * Return: 0 if successful
  *
- *     */
+ *   */
 
 int main(void)
 
