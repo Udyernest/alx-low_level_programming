@@ -5,9 +5,9 @@
 /**
 *main - Prints the alphabet without q and e.
 *
-*Return: Always 0 (successful)
+*Return: Always 0 (Success)
 */
-int maid(void)
+int main(void)
 {
 int i;
 
@@ -18,6 +18,6 @@ if (i != 101 && i != 113)
 putchar(i);
 }
 }
-putchar('/n');
+putchar('\n');
 return (0);
 }
