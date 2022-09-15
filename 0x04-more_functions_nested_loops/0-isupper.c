@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isupper - checks for a digit (0 through 9).
- * @c: input character.
- * Return: 1 if c is a digit, 0 if otherwise.
- */
+* _isupper - checks for a digit (0 through 9).
+* @c: input character.
+* Return: 1 if c is a digit, 0 if otherwise.
+*/
 
 int _isupper(int c)
 {
