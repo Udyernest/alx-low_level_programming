@@ -20,7 +20,7 @@ _putchar(32);
 if (op <= 9)
 {
 _putchar(32);
--putchar(op + 48);
+_putchar(op + 48);
 }
 {
 _putchar((op / 10) + 48);
